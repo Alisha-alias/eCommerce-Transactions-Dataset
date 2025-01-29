@@ -11,24 +11,24 @@ The dataset consists of three CSV files:
 ## Project Structure
 
 ### 1. Exploratory Data Analysis (EDA)
-- **EDA Notebook:** `FirstName_LastName_EDA.ipynb`
-- **Report:** `FirstName_LastName_EDA.pdf`
+- **EDA Notebook:** `Alisha_Alias_EDA.ipynb`
+- **Report:** `Alisha_Alias_EDA.pdf`
 - **Description:**
   - Performs exploratory data analysis on the dataset.
   - Identifies key patterns and trends in customer behavior.
   - Extracts and presents five key business insights based on the data.
 
 ### 2. Lookalike Model
-- **Code Notebook:** `FirstName_LastName_Lookalike.ipynb`
-- **Lookalike Recommendations CSV:** `FirstName_LastName_Lookalike.csv`
+- **Code Notebook:** `Alisha_Alias_Lookalike.ipynb`
+- **Lookalike Recommendations CSV:** `Alisha_Alias_Lookalike.csv`
 - **Description:**
   - Builds a Lookalike Model that recommends three similar customers based on profile and transaction history.
   - Uses cosine similarity to compute customer similarity.
   - Outputs the top three lookalikes and their similarity scores for the first 20 customers.
 
 ### 3. Customer Segmentation / Clustering
-- **Clustering Notebook:** `FirstName_LastName_Clustering.ipynb`
-- **Report:** `FirstName_LastName_Clustering.pdf`
+- **Clustering Notebook:** `Alisha_Alias_Clustering.ipynb`
+- **Report:** `Alisha_Alias_Clustering.pdf`
 - **Description:**
   - Applies clustering techniques to segment customers based on profile and transaction data.
   - Evaluates clusters using the Davies-Bouldin Index.
